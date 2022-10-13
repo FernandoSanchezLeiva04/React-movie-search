@@ -6,7 +6,7 @@ Search movies data.
 
 This is a simple Create React App that fetches data from the [OMDb API](https://omdbapi.com/) to show information about movies. It displays a list of movies that match the search criteria.
 
-The project can be seen live using the Github pages in the following URL: https://fernandosanchezleiva04.github.io/React-movie-search/
+The project can be seen live using the Github pages in the following URL: https://fernandojsl4.github.io/react-movie-search/
 
 ## Available Scripts
 
