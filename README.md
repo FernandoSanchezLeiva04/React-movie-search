@@ -1,4 +1,4 @@
-![Movie Searcher App - Screenshot](https://raw.githubusercontent.com/fernandojsl4/react-movie-search/main/images/movie-searcher-app.png)
+![Movie Searcher App - Screenshot](https://raw.githubusercontent.com/fernandojsl4/react-movie-search/master/images/movie-searcher-app.png)
 
 # Movie Searcher App
 
